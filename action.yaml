@@ -1,5 +1,5 @@
-name: Tweeter Action
-author: devigned
+name: Tweeter from Gophercon in golang
+author: sanjay3600
 description: Simple action to send a tweet via an GitHub Action.
 inputs:
   message:
